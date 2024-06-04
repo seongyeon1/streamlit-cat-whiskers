@@ -1,6 +1,6 @@
 numpy
-pillow
+Pillow
 streamlit
-opencv
+opencv-python
 dlib
 matplotlib
