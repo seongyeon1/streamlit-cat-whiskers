@@ -2,5 +2,5 @@ numpy
 Pillow
 streamlit
 opencv-python
-dlib
+dlib-bin
 matplotlib
